@@ -1,3 +1,8 @@
-Hello, i'm Hiann Luiz, i'm from Rio de janeiro, Brazil, production engineering student, 23 years old and new programming lover. During 2020 I started to study web development and found my true passion.
+### Olá, tudo bem? seja bem vindo !
 
-I am currently a junior developer with knowledge in the following areas: Javascript, ReactJS, HTML, CSS, Bootstrap, Python, Django.
+  🌱 - Me chamo Hiann, sim meu nome se escreve dessa forma : com 'h' e dois 'n', mas isso eu te explico mais pra frente.
+  👨‍💻 - &nbsp; Full Stack Web Development Student at <a href="https://www.driven.com.br/">Driven Education</a>
+  🦄 - Sou apaixonado por conhecer pessoas, amante da tecnologia. Sou bastante comunicativo, extrovertido, gosto de estar sempre me desenvolvendo e sou motivado por desafios.
+  💕 - Algumas curiosidades sobre mim : Sou do Rio de Janeiro, tenho 24 anos e amante de xadrez.
+  💻 - Full Stack Web Development Student at <a href="https://www.driven.com.br/">Driven Education</a>
+  Minha Stack :
